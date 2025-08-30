@@ -1,5 +1,1 @@
-"# revou"
-git add .
-git commit -m "update proyek"
-git push
-coment
+silahkan salin index.html sama game.ts nya..
